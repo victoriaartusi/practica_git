@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.imgcat {
+    height: 180px;
+}
+
+.imghom {
+    height: 180px;
+}
+
+.sec-cat {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-cat {
+    padding: 10px 10px 20px 10px;
+      //padding: top  right  bottom left;
+
+}
