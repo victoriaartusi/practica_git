@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-
+/**css para home **/
 
 .imghom {
     height: 180px;
@@ -25,23 +25,29 @@
 
 .div-hom-elemento-accesorios {
     padding: 10px 10px 20px 10px;
+    justify-content: center;
 }
 
 .div-hom-elemento-ropamujer {
     padding: 10px 10px 20px 10px;
+    justify-content: center;
 }
 
 .div-hom-elemento-ropahombre {
     padding: 10px 10px 20px 10px;
+    justify-content: center;
 }
 
 .form-hom-agregar {
     padding:5px 1px 10px 1px;
 }
 
-.form-hom-ver {
+/** .form-hom-ver {
 
-}
+} **/
+
+
+/**css para category**/
 
 .imgcat {
     height: 180px;
