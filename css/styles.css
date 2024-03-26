@@ -2,11 +2,48 @@
     box-sizing: border-box;
 }
 
-.imgcat {
+
+
+.imghom {
     height: 180px;
 }
 
-.imghom {
+.div-hom-elementos-accesorios{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-hom-elementos-ropamujer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-hom-elementos-ropahombre{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-hom-elemento-accesorios {
+    padding: 10px 10px 20px 10px;
+}
+
+.div-hom-elemento-ropamujer {
+    padding: 10px 10px 20px 10px;
+}
+
+.div-hom-elemento-ropahombre {
+    padding: 10px 10px 20px 10px;
+}
+
+.form-hom-agregar {
+    padding:5px 1px 10px 1px;
+}
+
+.form-hom-ver {
+
+}
+
+.imgcat {
     height: 180px;
 }
 
@@ -17,6 +54,5 @@
 
 .div-cat {
     padding: 10px 10px 20px 10px;
-      //padding: top  right  bottom left;
-
 }
+
